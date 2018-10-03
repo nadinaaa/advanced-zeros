@@ -1,3 +1,4 @@
+//
 module.exports = function getZerosCount(number, base) {
   let  div = 2,masp=[],mask=[],i=0,k=0;
   while (base > 1)
